@@ -1,0 +1,235 @@
+
+#item-1 {
+    color: white;
+}
+
+#item-2 {
+    color: white;
+}
+
+#item-3 {
+    color: white;
+}
+
+#item-4 {
+    color: white;
+}
+
+#item-5 {
+    color: white;
+}
+
+#icon {
+    color: white;
+    border-style: solid;
+    border-color: #4b6cc1;
+    width: 25px;
+    height: 40px;
+    padding: 3px;
+    padding-left: 4px;
+}
+
+#marking {
+    color: white;
+}
+
+.bg-container {
+    background-color: #191a1d;
+    height: auto;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 39px;
+    font-weight: 500;
+}
+
+.name-container {
+    color: #4b6cc1;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.button-1 {
+    font-family: "Roboto";
+    font-size: 23px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #4b6cc1;
+    border-width: 1px;
+    background-color: #4b6cc1;
+    color: white;
+    height: 45px;
+    width: 167px;
+}
+
+.card-image {
+    height: 200px;
+    width: 50%;
+}
+
+.text-container {
+    margin-top: 160px;
+}
+
+.bg-container {
+    background-color: #323f4b;
+}
+
+.bg-container-2 {
+    background-color: #1f2933;
+}
+
+.sub-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #cced00;
+    font-weight: bold;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 39px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.about-me-image {
+    height: 500px;
+    width: auto;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 21px;
+    color: #9aa5b1;
+    font-weight: 400;
+}
+
+.card-1 {
+    color: #ffffff;
+    background-color: #323f4b;
+    height: 90px;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding: 15px;
+    margin: 10px;
+    font-weight: 1100;
+    border-radius: 10px;
+}
+
+.card-image {
+    height: 90px;
+}
+
+.sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 39px;
+    font-weight: 800;
+}
+
+.card-1 {
+    background-color: #323f4b;
+    text-align: left;
+    border-radius: 18px;
+    border-color: #323f4b;
+    border-width: 1px;
+    border-style: solid;
+    height: auto;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 400;
+    color: #9aa5b1;
+
+}
+
+.card-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 27px;
+    font-weight: 800;
+}
+
+.Read-more-button {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 800;
+}
+
+.bg-container-21 {
+    background-color: #0d2436;
+}
+
+.bg-container-2 {
+    background-color: #001c32;
+}
+
+.image-1 {
+    border-radius: 360px;
+    height: 100px;
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 59px;
+}
+
+.info-container {
+    text-align: left;
+    margin-top: 59px;
+}
+
+.icon {
+    color: #9aa5b1;
+    margin-top: 18px;
+    font-weight: normal;
+}
+
+.icon-2 {
+    color: #5a7184;
+    margin-top: 18px;
+    font-weight: normal;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 27px;
+    color: #cced00;
+    font-weight: 800;
+
+}
+
+.Description {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #9aa5b1;
+    font-weight: 400;
+    margin-top: 18px;
+}
+
+.Description-2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: 400;
+    margin-top: 18px;
+}
